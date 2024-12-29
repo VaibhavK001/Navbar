@@ -1,2 +1,4 @@
 # Navbar
-My first repository : Vaibhav Korake
+My first repository
+<br>
+Vaibhav Korake
